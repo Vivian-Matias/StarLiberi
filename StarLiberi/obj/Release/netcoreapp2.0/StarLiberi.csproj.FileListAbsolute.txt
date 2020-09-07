@@ -1,0 +1,11 @@
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\bin\Release\netcoreapp2.0\StarLiberi.deps.json
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\bin\Release\netcoreapp2.0\StarLiberi.runtimeconfig.json
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\bin\Release\netcoreapp2.0\StarLiberi.runtimeconfig.dev.json
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\bin\Release\netcoreapp2.0\StarLiberi.dll
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\bin\Release\netcoreapp2.0\StarLiberi.pdb
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\obj\Release\netcoreapp2.0\StarLiberi.csprojAssemblyReference.cache
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\obj\Release\netcoreapp2.0\StarLiberi.csproj.CoreCompileInputs.cache
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\obj\Release\netcoreapp2.0\StarLiberi.AssemblyInfoInputs.cache
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\obj\Release\netcoreapp2.0\StarLiberi.AssemblyInfo.cs
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\obj\Release\netcoreapp2.0\StarLiberi.dll
+C:\Users\Vivian\Documents\HACKATHON\StarLiberi\StarLiberi\obj\Release\netcoreapp2.0\StarLiberi.pdb
