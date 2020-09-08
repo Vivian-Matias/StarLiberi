@@ -56,5 +56,5 @@ JS, CSS, HTML.
 
 
 .
-**Equipe STARLIBERI.**
+**Equipe STARLIBERI**
 .
