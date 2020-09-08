@@ -6,7 +6,7 @@ Tela inicial
 Existem abas superiores (Sobre e Formulário), ao serem pressionadas elas levam para a parte SOBRE, onde há uma descrição sobre a startup, e para um formulário onde ficam os feedbacks, clicando no botão é possivel ir para o formulário.
 
 Login
-A aba de login somente existe para fins de prototipação pois a mesma não realizada autentificação no momento, ao termos um banco de dados o mesmo terá a autentificação feita na controller.
+A aba de login somente existe para fins de prototipação pois a mesma não realizada autentificação no momento, ao termos um banco de dados o mesmo terá a autentificação feita na controller. (Para testes somente clicar no entrar).
 
 Aba Criança (POS_LOGIN)
 Assim que entrar na parte de Login terá a página da criança, onde terão os livros e gamificação.
@@ -28,5 +28,6 @@ Todas os layouts possuem View e Controller, futuramente espera-se concluir o Pad
 
 Os layouts se encontram na pasta Shared, os mesmos deverão ser alterados, também para a otimização do código.
 
+Foi realizada a utilização de um template bootstrap, gratuito e livre para utilização.
 
 Linguagens utilizadas: JS, CSS, HTML.
