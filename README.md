@@ -1,6 +1,6 @@
 # StarLiberi
 
-Sistema StarLiberi
+**Sistema StarLiberi**
 
 Tela inicial
 Existem abas superiores (Sobre e Formulário), ao serem pressionadas elas levam para a parte SOBRE, onde há uma descrição sobre a startup, e para um formulário onde ficam os feedbacks, clicando no botão é possivel ir para o formulário.
@@ -14,20 +14,27 @@ Assim que entrar na parte de Login terá a página da criança, onde terão os l
 Apa pais
 E a aba dos pais onde irá possuir a parte de atividades com as crianças.
 
+**PDF SOBRE O PROJETO**
+https://drive.google.com/file/d/1C2i7lEFC-DdoGSU8jsUiZasRQ4B9Rq5c/view?usp=sharing
 
-_LayoutPosLogin existem forms para cada personagem, ComoEsta[NUMERO DO PERSONAGEM] e carrosselCabelo3[NUMERO DO PERSONAGEM], que futuramente serão otimizados para ficar em um modal para todos, existem neles Carrossels para a mudança de página.
+**Video do projeto em funcionamento**
+https://youtu.be/MDGGVY2bQc0
 
-_LayoutLogin Refere-se a tela de login
+**Problemas que serão resolvidos com a ferramenta**
+https://youtu.be/6kgDiRlFZ_Q
 
-_layoutPais Refere-se a Aba pais
+**Guia de instalação**
+Visual studio 2017 ou 2019
 
-_LayoutPrincipal Refere-se a tela inicial
+
+**Autoria e contribuições**
+imagens - freepik e pixabay;
+template bootstrap, gratuito e livre para utilização;
+Plataforma para codificação: visualstudio.
 
 
-Todas os layouts possuem View e Controller, futuramente espera-se concluir o Padrão MVC com a criação e codificação da Model e fazer o vinculo com o banco, pensanso em otimizar o código.
+**Linguagens utilizadas:** 
+JS, CSS, HTML.
 
-Os layouts se encontram na pasta Shared, os mesmos deverão ser alterados, também para a otimização do código.
 
-Foi realizada a utilização de um template bootstrap, gratuito e livre para utilização.
-
-Linguagens utilizadas: JS, CSS, HTML.
+**Equipe STARLIBERI.**
