@@ -16,6 +16,7 @@ Assim que entrar na parte de Login terá a página da criança, onde terão os l
 
 
 Apa pais
+
 E a aba dos pais onde irá possuir a parte de atividades com as crianças.
 
 
@@ -54,4 +55,6 @@ JS, CSS, HTML.
 
 
 
+.
 **Equipe STARLIBERI.**
+.
