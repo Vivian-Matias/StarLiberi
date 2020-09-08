@@ -15,16 +15,25 @@ Apa pais
 E a aba dos pais onde irá possuir a parte de atividades com as crianças.
 
 **PDF SOBRE O PROJETO**
+
 https://drive.google.com/file/d/1C2i7lEFC-DdoGSU8jsUiZasRQ4B9Rq5c/view?usp=sharing
 
+
 **Video do projeto em funcionamento**
+
 https://youtu.be/MDGGVY2bQc0
 
+
 **Problemas que serão resolvidos com a ferramenta**
+
 https://youtu.be/6kgDiRlFZ_Q
 
+
 **Guia de instalação**
+
 Visual studio 2017 ou 2019
+
+
 
 
 **Autoria e contribuições**
